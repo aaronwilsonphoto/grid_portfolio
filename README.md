@@ -2,16 +2,11 @@
 
 An implementation of [Gil Huybrecht](http://www.gilhuybrecht.com/) ["Outdoors"](https://dribbble.com/shots/4022235-Outdoors-Transition) design project.
 
-![Image Title](link)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=33851)
-
-[Demo](http://tympanus.net/Development/OutdoorsTemplate/)
+Portfolio articles created using CSS Grid
 
 ## Credits
 
 - Design by [Gil Huybrecht](http://www.gilhuybrecht.com/)
-- Images by [Unsplash.com](http://unsplash.com)
 - [anime.js](http://anime-js.com/) by Julian Garnier
 - [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
 - [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
